@@ -1,0 +1,23 @@
+{
+  "nombre": "Peaje de Oyacoto",
+  "departamento": "Quito",
+  "totalPeaje": 6,
+  "totalCamiones": 1,
+  "totalMotos": 1,
+  "totalCarros": 1,
+  "vehiculos": [
+    {
+      "valorPeaje": 2,
+      "placa": "asdasd"
+    },
+    {
+      "valorPeaje": 1,
+      "placa": "asdasd"
+    },
+    {
+      "numeroEjes": 3,
+      "valorPeajeEje": 1,
+      "placa": "asdasd"
+    }
+  ]
+}
